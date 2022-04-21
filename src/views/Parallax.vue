@@ -63,7 +63,7 @@
                 Exposición fotográfica: Un Paisaje Fronterizo. Cruces e itinerarios en la línea México-Guatemala
               </p>
               <p>
-                <v-btn class="teal lighten-2" dark large href="http://lais-interno.mora.edu.mx/expo" target="_blank">
+                <v-btn class="teal lighten-2" dark large href="http://lais.mora.edu.mx/expo" target="_blank">
                   Ver sitio
                 </v-btn>
               </p>
